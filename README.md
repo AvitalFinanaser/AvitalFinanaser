@@ -18,6 +18,16 @@ I'm a Data Scientist passionate about building intelligent systems with Machine 
 
 <br>
 
+### [Augmented-HuBERT-for-SER] / Speech Emotion Recognition
+*Improving HuBERT-based Speech Emotion Recognition through data augmentation, fine-tuning, and cross-dataset evaluation.*
+
+- **Problem:** Investigated how data augmentation can improve the robustness and generalization of Speech Emotion Recognition models under diverse acoustic conditions.
+- **Deep Learning:** Fine-tuned a pre-trained HuBERT model for seven emotion classes and evaluated multiple augmentation strategies, including SpecAugment, Time Stretch, Additive Noise, and Neutral Copy-Paste.
+- **Evaluation:** Designed a comprehensive experimental framework comparing individual and weighted augmentation combinations, with cross-dataset validation on the SAVEE corpus.
+- **Key Findings:** Demonstrated that frequency-domain augmentations substantially improved recognition performance while highlighting the remaining challenges of cross-corpus generalization.
+
+<br>
+
 ### [BI-Project-Israel-Railways] / Railway BI & Analytics Platform
 *An end-to-end Business Intelligence platform for railway operations, combining data warehousing, interactive dashboards, and predictive analytics.*
 
