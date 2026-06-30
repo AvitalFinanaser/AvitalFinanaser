@@ -9,32 +9,32 @@ I'm a Data Scientist passionate about building intelligent systems with Machine 
 ## 🚀 Featured Projects
 
 ### [Dynamic-CDW] / Multi-Agent Collaborative Document Writing  
-*A simulation framework for collaborative document writing using LLM-based agents, presented at **ECAI 2025**.*
+*A simulation framework for collaborative document writing using **LLM-based agents**, presented at **ECAI 2025**.*
 
-- **Problem:** Explored how LLM-based agents can collaborate on shared document writing through dynamic propose-and-vote interactions.
-- **Architecture:** Designed and implemented multi-agent simulations in Python, including agent roles, interaction flows, and collaborative decision-making mechanisms.
-- **AI Workflow:** Built GenAI workflows using OpenAI APIs, LangChain, and RAG, including prompt engineering, agent orchestration, and evaluation pipelines.
-- **Evaluation:** Applied NLP, recommendation algorithms, and data analysis techniques to analyze large simulation outputs, identify behavioral patterns, and evaluate system performance.
-
-<br>
-
-### [Augmented-HuBERT-for-SER] / Speech Emotion Recognition
-*Improving HuBERT-based Speech Emotion Recognition through data augmentation, fine-tuning, and cross-dataset evaluation.*
-
-- **Problem:** Investigated how data augmentation can improve the robustness and generalization of Speech Emotion Recognition models under diverse acoustic conditions.
-- **Deep Learning:** Fine-tuned a pre-trained HuBERT model for seven emotion classes and evaluated multiple augmentation strategies, including SpecAugment, Time Stretch, Additive Noise, and Neutral Copy-Paste.
-- **Evaluation:** Designed a comprehensive experimental framework comparing individual and weighted augmentation combinations, with cross-dataset validation on the SAVEE corpus.
-- **Key Findings:** Demonstrated that frequency-domain augmentations substantially improved recognition performance while highlighting the remaining challenges of cross-corpus generalization.
+- **Problem:** Explored how **LLM-based agents** can collaborate on shared document writing through **dynamic propose-and-vote interactions**.
+- **Architecture:** Designed and implemented **multi-agent simulations** in Python, including **agent roles**, interaction workflows, and collaborative decision-making mechanisms.
+- **AI Workflow:** Built end-to-end **Generative AI workflows** using **OpenAI APIs**, **LangChain**, and **RAG**, including **prompt engineering**, agent orchestration, and evaluation pipelines.
+- **Evaluation:** Applied **NLP**, **recommendation algorithms**, and **data analysis** techniques to analyze large-scale simulation outputs, identify behavioral patterns, and evaluate system performance.
 
 <br>
 
-### [BI-Project-Israel-Railways] / Railway BI & Analytics Platform
-*An end-to-end Business Intelligence platform for railway operations, combining data warehousing, interactive dashboards, and predictive analytics.*
+### [Augmented-HuBERT-for-SER] / Speech Emotion Recognition  
+*Enhancing **HuBERT-based Speech Emotion Recognition** through **data augmentation**, **fine-tuning**, and cross-dataset evaluation.*
 
-- **Architecture:** Designed a three-layer BI architecture consisting of a Star Schema data warehouse, Tableau dashboards, and Python-based analytics.
-- **Data Engineering:** Built a dimensional data model integrating operational, ticketing, scheduling, and station data into a unified analytical platform.
-- **Analytics:** Applied K-Means clustering and Gradient Boosting to segment station profiles and forecast passenger demand for operational planning.
-- **Business Intelligence:** Developed executive dashboards and OLAP reports to monitor KPIs, operational performance, revenue trends, and passenger flow.
+- **Problem:** Investigated how **data augmentation** improves the robustness and generalization of **Speech Emotion Recognition (SER)** models under diverse acoustic conditions.
+- **Deep Learning:** Fine-tuned a **pre-trained HuBERT model** for seven emotion classes and evaluated **SpecAugment**, **Time Stretch**, **Additive Noise**, and **Neutral Copy-Paste** augmentation strategies.
+- **Evaluation:** Designed a comprehensive experimental framework comparing **individual** and **weighted augmentation combinations**, including **cross-dataset validation** on the **SAVEE** corpus.
+- **Key Findings:** Demonstrated that **frequency-domain augmentations** significantly improved recognition performance while highlighting the remaining challenges of **cross-corpus generalization**.
+
+<br>
+
+### [BI-Project-Israel-Railways] / Railway BI & Analytics Platform  
+*An end-to-end **Business Intelligence platform** combining **data warehousing**, **interactive dashboards**, and **predictive analytics** for railway operations.*
+
+- **Architecture:** Designed a three-layer BI architecture consisting of a **Star Schema data warehouse**, **Tableau dashboards**, and **Python-based analytics**.
+- **Data Engineering:** Built a **dimensional data model** integrating operational, ticketing, scheduling, and station data into a unified analytical platform.
+- **Analytics:** Applied **K-Means clustering** and **Gradient Boosting** to segment station profiles and forecast passenger demand for operational planning.
+- **Business Intelligence:** Developed executive dashboards and **OLAP reports** to monitor **KPIs**, operational performance, revenue trends, and passenger flow.
 
 <hr>
 
