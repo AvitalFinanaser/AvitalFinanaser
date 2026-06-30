@@ -8,6 +8,24 @@ I'm a Data Scientist passionate about building intelligent systems with Machine 
 
 ## 🚀 Featured Projects
 
+### [Dynamic-CDW] / Multi-Agent Collaborative Document Writing  
+*A simulation framework for collaborative document writing using LLM-based agents, presented at **ECAI 2025**.*
+
+- **Problem:** Explored how LLM-based agents can collaborate on shared document writing through dynamic propose-and-vote interactions.
+- **Architecture:** Designed and implemented multi-agent simulations in Python, including agent roles, interaction flows, and collaborative decision-making mechanisms.
+- **AI Workflow:** Built GenAI workflows using OpenAI APIs, LangChain, and RAG, including prompt engineering, agent orchestration, and evaluation pipelines.
+- **Evaluation:** Applied NLP, recommendation algorithms, and data analysis techniques to analyze large simulation outputs, identify behavioral patterns, and evaluate system performance.
+
+<br>
+
+### [BI-Project-Israel-Railways] / Railway BI & Analytics Platform
+*An end-to-end Business Intelligence platform for railway operations, combining data warehousing, interactive dashboards, and predictive analytics.*
+
+- **Architecture:** Designed a three-layer BI architecture consisting of a Star Schema data warehouse, Tableau dashboards, and Python-based analytics.
+- **Data Engineering:** Built a dimensional data model integrating operational, ticketing, scheduling, and station data into a unified analytical platform.
+- **Analytics:** Applied K-Means clustering and Gradient Boosting to segment station profiles and forecast passenger demand for operational planning.
+- **Business Intelligence:** Developed executive dashboards and OLAP reports to monitor KPIs, operational performance, revenue trends, and passenger flow.
+
 <hr>
 
 ## 🛠️ Technical Stack
